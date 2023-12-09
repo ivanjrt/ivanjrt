@@ -10,6 +10,7 @@
 
 # Skills:
 ```js
+- AI
 - Intune
 - HTML
 - XAML
