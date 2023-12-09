@@ -1,7 +1,7 @@
 # Hi there 👋 Welcome to Ivan's.
 
 # About me:
-🪪 Work as a Support Engineer Helping others with their Management of Apps, Devices, Code and Networking. <br/>
+🪪 🌟Work as a Support Engineer Helping others with their Management of Apps, Devices, Code and Networking. <br/>
 🌐 Texas <br/>
 📩 https://www.linkedin.com/in/ivanjrt/ <br/>
 
