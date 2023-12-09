@@ -19,8 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ivanjrt&show_icons=true" />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanjrt&repo=github-readme-stats)](https://github.com/ivanjrt/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjrt)](https://github.com/ivanjrt/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjrt&langs_count=8)
 
 
 
