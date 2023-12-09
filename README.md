@@ -6,6 +6,20 @@
 📩 https://www.linkedin.com/in/ivanjrt/ <br/>
 
 
+# Skills:
+- Intune
+- Javascript
+- HTML
+- Powershell
+- Python
+- C#
+- XAML
+- Bash
+- Docker
+- Virtualization
+- Network
+
+
 <!-- Stats -->
 <picture>
   <source
@@ -19,9 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ivanjrt&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjrt)](https://github.com/ivanjrt/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjrt&langs_count=8)
-
 
 
 <!--
