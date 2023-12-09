@@ -8,12 +8,12 @@
 # Skills:
 ```js
 - Intune
+- HTML
+- XAML
 - Javascript
-- H T M L
 - Powershell
 - Python
 - Csharp
-- X A M L
 - Bash
 - Docker
 - Virtualization
@@ -23,10 +23,10 @@
 
 <!-- Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=178 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanjrt&theme=dark" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanjrt&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=178 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanjrt&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanjrt&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
 
 
